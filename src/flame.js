@@ -1,0 +1,1 @@
+window.FlameEffect = window.FlameEffect || require('./lib/flame');
